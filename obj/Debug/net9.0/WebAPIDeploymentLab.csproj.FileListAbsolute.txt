@@ -150,3 +150,9 @@ C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDepl
 C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\obj\Debug\net9.0\WebAPIDeploymentLab.pdb
 C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\obj\Debug\net9.0\WebAPIDeploymentLab.genruntimeconfig.cache
 C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\obj\Debug\net9.0\ref\WebAPIDeploymentLab.dll
+C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\obj\Debug\net9.0\WebAPIDeploymentLab.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milli\Documents\Designa Möln lösningar\WebAPIDeploymentLab\WebAPIDeploymentLab\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
