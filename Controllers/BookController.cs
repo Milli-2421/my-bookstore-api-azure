@@ -57,17 +57,17 @@ namespace WebAPIDeploymentLab.Controllers
             return Ok(updatedBook);
         }
 
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteBook(int id)
-        {
-            var deleted = await _bookRepo.DeleteAsync(id);
+        //[HttpDelete("{id}")]
+        //public async Task<IActionResult> DeleteBook(int id)
+        //{
+        //    var deleted = await _bookRepo.DeleteAsync(id);
 
-            if (!deleted)
-            {
-                return NotFound();
-            }
+        //    if (!deleted)
+        //    {
+        //        return NotFound();
+        //    }
 
-            return NoContent();
-        }
+        //    return NoContent();
+        //}
     }
 }
